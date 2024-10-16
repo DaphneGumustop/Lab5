@@ -1,0 +1,46 @@
+.box{
+    height:200px; 
+    width:300px; 
+    background-color: blueviolet;}
+.responsive-box{ 
+    width:50%; 
+    height:50%;
+    background-color: brown;}
+.padded-text{
+    padding:20px 20px 20px 20px; 
+    background-color: cornflowerblue ;}
+.custom-padding{
+    padding: 10px 20px 10px 20px; 
+    background-color: olivedrab;}
+.border-box{
+    border: solid 2px black; 
+    background-color: palegoldenrod; }
+.rounded-border{
+    border-style: dotted;
+    border-color: red ; 
+    border-radius: 15px; 
+    border-radius: 3px}
+.margin-text{
+    margin: 30px; 
+    background-color: unset;}
+.custom-margin{ 
+    margin: 20px 40px 20px 40px; 
+    background-color:salmon}
+.inline-element{
+    display: inline; 
+    background-color: teal;}
+.block-element{
+    display: block; 
+    background-color:pink;}
+.inline-block-element{
+    display: inline-block; 
+    background-color: plum;}
+.hidden-element{ 
+    display: none;}
+.visible-element{
+    visibility: none;}
+.invisible-element{
+    visibility: hidden;}
+.transparent-box{
+    background-color: blue; 
+    opacity: .5 ;}
